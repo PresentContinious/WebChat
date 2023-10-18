@@ -1,0 +1,15 @@
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/bin/Debug/net7.0/WebChat.Core.deps.json
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/bin/Debug/net7.0/WebChat.Core.dll
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/bin/Debug/net7.0/WebChat.Core.pdb
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/bin/Debug/net7.0/DataAccess.dll
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/bin/Debug/net7.0/DataAccess.pdb
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/obj/Debug/net7.0/WebChat.Core.csproj.AssemblyReference.cache
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/obj/Debug/net7.0/WebChat.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/obj/Debug/net7.0/WebChat.Core.AssemblyInfoInputs.cache
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/obj/Debug/net7.0/WebChat.Core.AssemblyInfo.cs
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/obj/Debug/net7.0/WebChat.Core.csproj.CoreCompileInputs.cache
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/obj/Debug/net7.0/WebChat.Core.csproj.CopyComplete
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/obj/Debug/net7.0/WebChat.Core.dll
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/obj/Debug/net7.0/refint/WebChat.Core.dll
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/obj/Debug/net7.0/WebChat.Core.pdb
+/Users/maxzel/RiderProjects/WebChat/WebChat.Core/obj/Debug/net7.0/ref/WebChat.Core.dll
